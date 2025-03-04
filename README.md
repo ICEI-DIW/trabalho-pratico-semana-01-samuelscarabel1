@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Samuel Scarabelli Amarante
+Matricula: 833241
 
 ## Tela de inspeção com navegador
-
+![alt text](<print do site.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<print do replit.png>)
